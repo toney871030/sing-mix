@@ -11,7 +11,7 @@
 
 // 强制直连
 const BYPASS_DOMAINS = [
-  "example.com", "example.org", "52pojie.cn", "pc528.net", "winos.me", "175dt.com"
+  "example.com", "example.org", "52pojie.cn", "pc528.net", "winos.me", "175dt.com", "555k31.com", "55kp5.com"
 ];
 
 // 强制代理
